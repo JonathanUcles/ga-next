@@ -1,6 +1,6 @@
 {
   "name": "ga-next",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Google Analytics Library for Next.js apps",
   "scripts": {
     "rollup": "rollup -c",
