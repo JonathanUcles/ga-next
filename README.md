@@ -4,7 +4,7 @@ google analytics library for nextjs
 Usage 
 .env.local
 ```
-GA_TRACKING_ID = 'your UA or GA code'
+NEXT_PUBLIC_GA_ID = 'your UA or GA code'
 
 ```
 
